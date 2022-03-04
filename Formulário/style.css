@@ -103,9 +103,9 @@ fieldset:nth-child(5) {
     transition: 0.5s;
 }
 
-#check input: :checked ~ label,
-#check input: :valid ~ label{
-    color: 00acd7
+#check input:checked ~ label,
+#check input:valid ~ label{
+    color: 00acd7;
 }
 
 button{
@@ -135,8 +135,8 @@ form a{
     display: block;
 }
 
-form a: :hover{
-    color:#111
+form a:hover{
+    color:#111;
 }
 
 
