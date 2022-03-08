@@ -36,6 +36,16 @@
 .botao:hover{
     background-color: black;
 }
+
+.botao-zero:hover{
+    background-color: black;
+}
+
+.botao-igual:hover{
+    background-color: black;
+}
+
+
 .botao-igual{
     height: 106px;
 }
